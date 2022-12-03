@@ -1,10 +1,10 @@
 //check a string is pallindrome or not
 
 let str= "naman"
-let bag=""
-for(i=str.length;i>=1;i++){
-if((bag=srt){
+let rev=""
+
+for(let i=str.length-1;i>=0;i--){
+
+rev+= str[i];
 }
-console.log("true")
-}else{
-}console.log("false"
+console.log(rev==str)
