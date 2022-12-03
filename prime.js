@@ -1,4 +1,7 @@
 
+
+
+//check weather a number is prime or not
 let i=2;
 
 while(i<num){
@@ -12,6 +15,6 @@ i++;
 if (i===num){
 console.log("yes)
 
-};
+}
 
 
