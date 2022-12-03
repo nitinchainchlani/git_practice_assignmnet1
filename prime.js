@@ -1,4 +1,5 @@
-// Prime number code.
+
+
 
 //check weather a number is prime or not
 let i=2;
@@ -15,4 +16,5 @@ if (i===num){
 console.log("yes)
 
 }
+
 
