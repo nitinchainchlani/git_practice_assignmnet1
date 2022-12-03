@@ -1,4 +1,4 @@
-//check a string is pallindrome or not
+
 let str= "naman"
 let rev=""
 
