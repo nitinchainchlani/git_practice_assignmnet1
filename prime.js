@@ -12,6 +12,6 @@ i++;
 if (i===num){
 console.log("yes)
 
-}
+};
 
 
